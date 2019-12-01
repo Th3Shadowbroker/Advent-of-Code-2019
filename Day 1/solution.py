@@ -56,7 +56,7 @@ def solve():
     for fuel_amount in fuel_amounts:
         fuel_total += fuel_amount
 
-    print("Total required fuel calculates to: " + str(fuel_total))
+    print("Total required fuel calculates to " + str(fuel_total))
     print("Total required fuel and the additional fuel calculates to " + str(fuel_total + fuel_additional))
 
 # Run the script
